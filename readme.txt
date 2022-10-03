@@ -1,0 +1,1 @@
+Para efetuar a interpretação e execução, executar o arquivo 'api.py' no seu compilador de escolha.
